@@ -2,7 +2,7 @@
 
 ## Start
 1. Clone repository `git@github.com:777Lava/ozonTest.git`
-2. Run `docker compose up -d` in root directory 
+2. Run `docker compose up -d` in the project root directory 
 3. Go to http://localhost:8000
 4. For stop docker run `docker compose stop` 
 
